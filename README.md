@@ -10,12 +10,7 @@ The objective of this project is to predict future business sales using historic
 
 # Live Demo
 
-Streamlit App:
-Add your deployed Streamlit link here
-
-Example:
-https://future-ml-01.streamlit.app
-
+Streamlit App: https://youtu.be/3KSEmnojLDs
 ---
 
 # GitHub Repository
